@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+textblob
+wordcloud
+seaborn
+matplotlib
+cufflinks
+plotly
